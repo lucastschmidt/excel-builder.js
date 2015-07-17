@@ -2,7 +2,7 @@ define([
     'require',
     'underscore',
     './Excel/Workbook',
-    'JSZip',
+    'jszip',
     './Excel/Drawings',
     './Excel/Drawings/Picture',
     './Excel/Positioning'
